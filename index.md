@@ -132,49 +132,72 @@ type:subsection
 
 # Government activities
 
+
+Open science and research -program (2014-2017)
 ===========================
 
-## Portal: [avointiede.fi](http://avointiede.fi)
-
-
-- launched 19.03.2014)
+- launched in 19.03.2014 by ministry of Education and culture
+- Portal: [avointiede.fi](http://avointiede.fi)
 - [Open science and research -seminar](http://avointiede.fi/-/avausseminaari-taytti-helsingin-yliopiston-pienen-juhlasal-1?redirect=http%3A%2F%2Favointiede.fi%2Fajankohtaista%3Fp_p_id%3D101_INSTANCE_40wDiZnxEk2S%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D2) - 19.03.2014 links to material (in Finnish)
-- memo: [The intention of Open Science and Research initiative in Finland](http://www.tdata.fi/documents/47404/86137/The+intention+of+Open+Science+and+Research+initiative+in+Finland/d8558803-e050-45db-a6a5-90639fe62da9) - 25.2.2014
-
+- memo in English: [The intention of Open Science and Research initiative in Finland](http://www.tdata.fi/documents/47404/86137/The+intention+of+Open+Science+and+Research+initiative+in+Finland/d8558803-e050-45db-a6a5-90639fe62da9) - 25.2.2014
 
 >This memo describes the background and targets of Open Science and Research Initiative (ATT), established in 2014 by the Finnish Ministry of Education and Culture to incorporate open science and research to the whole research process to improve the visibility and impact of science and research in the innovation system and society at large. 
 
 
-Avoimen tieteen ja tutkimuksen edistäminen
+Promoting open science and research
 =========================
 
 ## Three categories
 
 1. Open (access) publishing
-    - Julkaisun säilytys
-Julkaisun metatietopalvelu
-    - Julkaisun saatavuuspalvelut
+    - preservation of publications
+    - meta-data for publications
+    - services for access
 2. Open (research) data
-    - Datan säilytys
-    - Datan metatietopalvelu
-    - Datan saatavuuspalvelut
+    - preservation of data
+    - meta data for data
+    - services for access
 3. Open research methods
-    - Menetelmien säilytys
-    - Menetelmien metatietopalvelu
-    - Menetelmien saatavuuspalvelu
+    - preservation of methods
+    - metadata for research methods
+    - services for access
 
 ***
 
 ## Supporting the change
-4. Tutkimusympäristöt
-    - Testi/kehitysympäristöt (esim. JulkICTlab)
-    - Luvanvaraiset ympäristöt (sensitiivinen data)
-5. Työkalut
-    - Pääsynhallinta, identiteetinhallinta ja oikeuksienhallinta
-6. Osaaminen
-    - Avoimen tieteen käsikirja
-    - Kurssit ja opastus
-    - Datan hallinnan taidot osaksi korkeakouluopetusta
+4. Research environments
+    - test/development environments (esim. [JulkICTlab](https://wiki.julkict.fi/julkict))
+    - restricted enviroments (sensitive data)
+5. Tools
+    - access control, identity control and permission control
+6. Skills
+    - [Open science handbook](http://avointiede.fi/documents/10864/12232/Avoimen+tieteen+ja+tukimuksen+k%C3%A4sikirja+%28luonnos+03-2014%29/75be6445-3751-4c9c-9d3f-55b242a33db2)
+    - Courses and guidance
+    - data management skills as part of higher education
+
+
+Questions: How we can achieve the goals in open science and research?
+============================================
+
+*source: [Juha Haataja 19.3.2014](http://avointiede.fi/documents/10864/13570/ATT-seminaari_paneelit_Haataja_20140319.pdf/7ab6e47e-d12c-4146-a314-f12e1a84f872)*
+
+## Guidance perspective
+
+- how open access will change the research practises?
+- how openness can be achieved while respecting the principles of research ethics?
+- how to make researchers to adopt open pratises as part of their daily work
+
+## Finance perspective
+- how should the public finance instruments be updated to match the new situation
+- which are the most important priorities in this development?
+
+## Reform perspective
+- does openness increase the trust for science/research?
+- how openness speeds up businesses?
+- does openness make it easier to monitor the quality of research?
+
+- my question: **does openness improve the quality of research?**
+
 
 Challenges
 ============================================
