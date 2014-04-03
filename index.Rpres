@@ -1,47 +1,25 @@
-Open Science in Finland
-==============
-css: /home/aurelius/workspace/template/rpresentation/slides.css
-transition: fade
-transition-speed: fast
-*Overview of civil society & government activities*
+---
+title: Open Science in Finland
+author: Markus Kainu
+date: April 3, 2014
+---
 
-[Ushinsky Scientific Pedagogical Library](http://www.gnpbu.ru/) </br>
-April 3, 2014
+<!--
+pandoc -s -S -H /home/aurelius/workspace/web/css/rmarkdown.css index.Rpress -o index.html
 
-<a href="http://markuskainu.fi">Markus Kainu</a></br>
-*PhD student* </br>
-[Aleksanteri institute, University of Helsinki](http://helsinki.fi/aleksanteri) </br>
-[Department of Social Research, University of Turku](https://www.utu.fi/fi/yksikot/soc/yksikot/sosiaalitieteet/Sivut/home.aspx) </br>
+-->
 
-<div class="github-fork-ribbon-wrapper right">
-<div class="github-fork-ribbon">
-<a href="https://github.com/muuankarski/" style="color:white;">Fork me on GitHub</a>
-</div>
-</div>
+Below are the links the that I referred to in my presentation at the [Ushinsky Scientific Pedagogical Library](http://www.gnpbu.ru/)
 
-
-Outline
-====================================
-
-1. What open science?
-2. Civil society activities in Finland
-3. Government activities in Finland
-4. Current challenges for wider adoption
-
-<!-- ---| notes begin |--------------------------------
-
-
----------| notes end |-----------------------------  --> 
 
 
 What Open Science?
-========================================================
+===========================================
+
+
 
 ![](http://book.openingscience.org/images/open_science_.png)
 
-
-What Open Science?
-=======================================================
 
 <div style="font-size:0.8em;">
 
@@ -97,14 +75,12 @@ What Open Science?
 
 *Source: [Benedikt Fecher & Sascha Friesike (2013) Open Science: One Term, Five Schools of Thought](http://book.openingscience.org/basics_background/open_science_one_term_five_schools_of_thought.html)*
 
-====================================
-type:subsection
 
-# Civil society activities
-
+Civil society activities
+==================================
 
 Open knowledge Foundation
-===========================
+------------------------------------
 
 [website](http://fi.okfn.org/)
 
@@ -112,13 +88,12 @@ Open knowledge Foundation
     - [Facebook group](https://www.facebook.com/groups/241398182642057/)
     - [rOpenGov](http://ropengov.github.io/)
     - [Network of education institutes in Open Data](http://fi.okfn.org/get-involved/oppilaitosverkosto/)
-        - [School of data]()
-        - [School of data]()
+        - [School of data](http://bit.ly/OKFFI_datakoulu)
 - [Open GLAM](http://fi.okfn.org/wg/avoinglam/) - (Galleries, Libraries, Archives and Museums)
     - [information in English](http://avoinglam.fi/?page_id=70)
 
 Digital humanities in Finland
-===========================
+------------------------------------
 
 - [digihist.se - History in digital world](http://digihist.se/)
     - [Open research methods in computational social sciences and humanities: introducing R](http://digihist.se/5-metoder-inom-digital-historia/fordjupning-open-research-methods-in-computational-social-sciences-and-humanities-introducing-r/)
@@ -127,14 +102,13 @@ Digital humanities in Finland
 - tag `#digihumfi` in Twitter
 
 
-===========================
-type:subsection
 
-# Government activities
+Government activities
+==================================
 
 
 Open science and research -program (2014-2017)
-===========================
+------------------------------------
 
 - launched in 19.03.2014 by ministry of Education and culture
 - Portal: [avointiede.fi](http://avointiede.fi)
@@ -145,9 +119,9 @@ Open science and research -program (2014-2017)
 
 
 Promoting open science and research
-=========================
+----------------------------------
 
-## Three categories
+### Three categories
 
 1. Open (access) publishing
     - preservation of publications
@@ -162,9 +136,7 @@ Promoting open science and research
     - metadata for research methods
     - services for access
 
-***
-
-## Supporting the change
+### Supporting the change
 4. Research environments
     - test/development environments (esim. [JulkICTlab](https://wiki.julkict.fi/julkict))
     - restricted enviroments (sensitive data)
@@ -175,41 +147,36 @@ Promoting open science and research
     - Courses and guidance
     - data management skills as part of higher education
 
-
-Questions: How we can achieve the goals in open science and research?
-============================================
-
 *source: [Juha Haataja 19.3.2014](http://avointiede.fi/documents/10864/13570/ATT-seminaari_paneelit_Haataja_20140319.pdf/7ab6e47e-d12c-4146-a314-f12e1a84f872)*
 
-## Guidance perspective
+
+Questions: How we can achieve the goals in open science and research?
+------------------------------------
+
+### Guidance perspective
 
 - how open access will change the research practises?
 - how openness can be achieved while respecting the principles of research ethics?
 - how to make researchers to adopt open pratises as part of their daily work
 
-## Finance perspective
+### Finance perspective
 - how should the public finance instruments be updated to match the new situation
 - which are the most important priorities in this development?
 
-## Reform perspective
+### Reform perspective
 - does openness increase the trust for science/research?
 - how openness speeds up businesses?
 - does openness make it easier to monitor the quality of research?
 
-- my question: **does openness improve the quality of research?**
+
+*source: [Juha Haataja 19.3.2014](http://avointiede.fi/documents/10864/13570/ATT-seminaari_paneelit_Haataja_20140319.pdf/7ab6e47e-d12c-4146-a314-f12e1a84f872)*
 
 
-Challenges
-============================================
+Links to Finnish Open science actors
+=======================================
 
-Development is "institutionally driven"
-
-- libraries and archives have the resources to promote open pratises in science, but not necessarily the expertise on each field
-- how to empower researchers in this process?
-    - to share their experiences and good practises?
-    - to learn from the other?
-    - incentives for opening up data & methods for adopting these practises?
-- who to embed the open science practises and thinking in higher education? 
-    - candidate level, masters level, phd level
-
-We should promote culture in science & research where openness is the default starting point.
+- [Finnish Social Science Data Archive](http://www.fsd.uta.fi/en/)
+- [National library](http://www.nationallibrary.fi/)
+    - [Slavonic library](http://www.nationallibrary.fi/services/kokoelmat/slaavilainenkirjasto.html)
+- [National Archives](http://www.arkisto.fi/en/the-national-archives-service/kansallisarkisto-4)
+- [Brages press]
